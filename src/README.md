@@ -10,7 +10,6 @@
 > 2. Create a program that writes user input to a text file.
 > 3. Write a program that appends text to an existing file.
 > 4. Create a program that counts the number of lines in a file.
-> 5. Write a program that copies the contents of one file to another.
 
 ## Exception Handling
 > 1. Write a program that handles division by zero using try-catch.
