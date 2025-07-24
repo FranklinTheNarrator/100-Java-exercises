@@ -1,9 +1,11 @@
-import collections.ListIntersection;
+import fileIO.LineCounter;
 
 public class Main {
     public static void main(String[] args) {
-        ListIntersection listIntersection = new ListIntersection();
+        String originalData = "src\\fileIO\\res\\data.txt";
+        String outputData = "src\\fileIO\\res\\outputData.txt";
 
-        listIntersection.findIntersection();
+        LineCounter lineCounter = new LineCounter();
+        lineCounter.countLines(originalData);
     }
 }
