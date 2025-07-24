@@ -1,5 +1,3 @@
-Project in progress...
-
 ## Collections
 > 1. Write a program that uses an ArrayList to store and print a list of names.
 > 2. Create a program that uses a HashMap to count the frequency of words in a sentence.
