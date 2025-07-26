@@ -1,4 +1,4 @@
-import advanced.optional.OptionalExample;
+import advanced.OptionalExample;
 
 public class Main {
     public static void main(String[] args) {
