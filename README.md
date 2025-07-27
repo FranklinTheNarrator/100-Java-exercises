@@ -9,6 +9,7 @@ Still in progress...
 * Control Flow & Exception Handling;
 * GUI Programming;
 * Networking;
+* Algorithms;
 * Testing;
 * Java Design Patterns;
 * Data Structures;
